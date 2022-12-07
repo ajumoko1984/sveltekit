@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+.vercel
+.output
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
